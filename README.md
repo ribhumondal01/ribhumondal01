@@ -1,9 +1,20 @@
 - 👋 Hi, I’m Ribhu Mondal
-- 👀 I’m interested in Web Development & Designing
-- 🌱 I’m currently pursuing B.Tech in CSE from Kalyani Government Engineering College
-- 📫 How to reach me: Linked_In: www.linkedin.com/in/ribhu-mondal-086367191
+Description
+A simple Responsive website where payment gateway is integrated.
 
-<!---
-ribhumondal01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+There will be a simple donate button on the homepage. On clicking the donate button, the user will land on the payment page where the user can select the choice of a gateway than the amount to be paid and the payment type, e.g. credit card, Paypal, etc.
+
+Once the payment is done an invoice will be generated and an email will be sent to the user for the payment received. The invoice will contain the amount.
+
+Stacks Used
+HTML
+CSS
+JavaScript
+Payment Gateway Used:-
+RazorPay
+
+Test Configuration:
+Text-editors used: VS Code
+
+project Designed for
+The sparks Foundation(GRIP)
